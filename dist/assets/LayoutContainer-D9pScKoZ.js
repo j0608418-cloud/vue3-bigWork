@@ -1,0 +1,1 @@
+import{E as e,S as t,d as n,f as r,u as i}from"./index-CM8I3dE2.js";import{t as a}from"./_plugin-vue_export-helper-BDNMzG2s.js";var o={};function s(a,o){let s=e(`router-view`);return t(),i(`div`,null,[o[0]||=n(` 布局架子 `,-1),r(s)])}var c=a(o,[[`render`,s]]);export{c as default};
